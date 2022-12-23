@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/activity_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/activity_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/adapter_category.xml" value="0.22" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/adapter_headlines.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/adapter_news.xml" value="0.22" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/custom_toolbar.xml" value="0.22" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/fragment_bookmark.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project/Udemy/NewsApp/app/src/main/res/layout/fragment_home.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
